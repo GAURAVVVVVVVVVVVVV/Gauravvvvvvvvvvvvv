@@ -16,6 +16,6 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,cpp,github,vscode" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GAURAVVVVVVVVVVVVV" alt="streak-stats" />
+
 
 </p>
