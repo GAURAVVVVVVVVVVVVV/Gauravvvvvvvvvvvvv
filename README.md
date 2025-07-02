@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gaurav Mehta</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
 
-- 🔭 I’m currently working on **iNoteBook**
 - 🌱 I’m currently learning **MERN stack**
 - 👨‍💻 All of my projects are available at [My GitHub](https://github.com/GAURAVVVVVVVVVVVVV)
 - 📫 How to reach me **gauravgzb850@gmail.com**
