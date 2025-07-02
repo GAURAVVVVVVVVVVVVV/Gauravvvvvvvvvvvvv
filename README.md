@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on **iNoteBook**
 - 🌱 I’m currently learning **MERN stack**
 - 👨‍💻 All of my projects are available at [My GitHub](https://github.com/GAURAVVVVVVVVVVVVV)
-- 📫 How to reach me **your-email@example.com**
+- 📫 How to reach me **gauravgzb850@gmail.com**
 - ⚡ Fun fact: *I love building cool UIs*
 
 <h3 align="left">Connect with me:</h3>
