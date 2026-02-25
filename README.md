@@ -1,34 +1,17 @@
-<h1 align="center">Hi 👋, I'm Gaurav Mehta</h1>
-<h3 align="center">A passionate Full Stack Developer, India 🇮🇳</h3>
-
----
-
-- 🌱 I’m currently learning **Web Dev & ML**
-- 💬 Ask me about **Web development,C++,ML**
-- 📫 Reach me at **gauravgzb850@gmail.com**
-- 👩‍💻 I enjoy solving DSA problems and building full-stack websites
-
----
-
-### 🤝 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gaurav-mehta-324431318/)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white)](https://x.com/GauravvMehtaaa)
-
----
-
-### 🛠️ Technologies and Tools:
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,java,cpp,git,github,bootstrap" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&duration=4000&pause=&color=149414&background=FFFFFF00&center=true&vCenter=true&repeat=false&width=600&lines=My+README.md!" />
 </p>
 
----
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdngwcnc3cTIxMHp1cTRoMzB2aWw5amszYWdwOTRhdTRna3Ntb3dkdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9WC8WTZsFxkRi/giphy.gif" width="1000" height="100" align="center">
 
-### 📊 GitHub Stats:
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=GAURAVVVVVVVVVVVVV&show_icons=true&theme=radical" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GAURAVVVVVVVVVVVVV&layout=compact&theme=radical" height="150"/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1250&color=149414&background=FFFFFF00&center=true&vCenter=true&width=700&lines=Namaste!;My+name+is+Gaurav+Mehta!;I'm+a+Full+Stack+Web+Developer!;I'm+Located+in+Delhi%2C+India!;Enjoy+exploring+my+Profile!" />
 </p>
 
-<p align="left">
-  <img src="https://streak-stats.demolab.com?user=GAURAVVVVVVVVVVVVV&theme=radical" height="150"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,css,discord,dotnet,electron,fastapi,firebase,flask,git,github,html,js,linux,lua,md,nextjs,nodejs,npm,powershell,py,raspberrypi,react,robloxstudio,stackoverflow,svg,tailwind,threejs,vite,vscode" />
+</p>
+
+<p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 25px; background-color: #000; padding: 20px; border-radius: 12px;">
+  <img src="https://github-stats-alpha.vercel.app/api?username=GAURAVVVVVVVVVVVVV&cc=000&tc=00FF00&ic=00FF00&bc=000" width="300" height="160" />
 </p>
